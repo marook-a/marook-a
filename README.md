@@ -22,5 +22,5 @@
 - [Test-Suites and Test-Cases]
 - [Bug-Reports]
 - [SQL Queries]
-- [Postman Collections][(https://github.com/marook-a/marook-a/blob/main/assets/getpostman-ar21.png)](https://github.com/marook-a/Postman.git)
+- [[Postman Collections](https://github.com/marook-a/marook-a/blob/main/assets/getpostman-ar21.png)](https://github.com/marook-a/Postman.git)
 
