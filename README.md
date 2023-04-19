@@ -2,7 +2,7 @@
 ## I'm a QA Engineer. 
 ## I am actively expanding my functional testing skills. 
 ## My CV
-[Link to my CV](https://docs.google.com/document/d/130uPg1kAz4VzkR_BeHMejRf_yaF6MWPB/edit?usp=sharing&ouid=106877430928707034467&rtpof=true&sd=true)
+[Link to my CV](https://drive.google.com/file/d/1AtrGld_q35ceONQBA65ewvuOaLegE-vc/view?usp=sharing)
 
 ### Language and Tools
 ![Header](https://img.shields.io/badge/Jira-090909?style=for-the-badge&logo=jira&logoColor=136be1)
