@@ -21,7 +21,7 @@
 - [Checklists](https://drive.google.com/drive/folders/1WdeHjs6xd0fKxSzogNod4NpKxolOoZhG?usp=sharing)
 - [Test-Cases](https://drive.google.com/drive/folders/1bJYO7ywhez72GommZ4CVptMehfVdf1CX?usp=sharing)
 - [Bug-Reports](https://drive.google.com/drive/folders/1Iyqsm7vtqU3uMpq1Ep4Zc89wHoG2aqrE?usp=sharing)
-- [SQL Queries]
+- [SQL Queries](https://drive.google.com/drive/folders/114OnmbsoMxPQ_n8JZrIOzJpbSbtfpjEc?usp=sharing)
 - [Postman Collections](https://github.com/marook-a/Postman.git)
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
