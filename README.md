@@ -24,3 +24,5 @@
 - [SQL Queries]
 - [Postman Collections](https://github.com/marook-a/Postman.git)
 
+![Jokes Card](https://readme-jokes.vercel.app/api)
+
