@@ -25,7 +25,7 @@
 - [Test-Cases](https://drive.google.com/drive/folders/1bJYO7ywhez72GommZ4CVptMehfVdf1CX?usp=sharing)
 - [Bug-Reports](https://drive.google.com/drive/folders/1Iyqsm7vtqU3uMpq1Ep4Zc89wHoG2aqrE?usp=sharing)
 - [SQL Queries](https://drive.google.com/drive/folders/114OnmbsoMxPQ_n8JZrIOzJpbSbtfpjEc?usp=sharing)
-- [Postman Collections](https://github.com/marook-a/Postman.git)
+- [Postman Collections](https://www.postman.com/orbital-module-candidate-17969272/workspace/test-workspace/request/25109177-2fe48b99-f32d-4eda-b17c-44af5774b60f)
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
