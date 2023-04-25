@@ -19,7 +19,7 @@
 ![Header](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2b%2b&logoColor=black)
 ![Header](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-### Testing Documentation
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Testing+Documentation)](https://git.io/typing-svg)
 
 - [Checklists](https://drive.google.com/drive/folders/1WdeHjs6xd0fKxSzogNod4NpKxolOoZhG?usp=sharing)
 - [Test-Cases](https://drive.google.com/drive/folders/1bJYO7ywhez72GommZ4CVptMehfVdf1CX?usp=sharing)
