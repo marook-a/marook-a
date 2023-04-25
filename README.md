@@ -20,7 +20,6 @@
 ![Header](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Testing+Documentation)](https://git.io/typing-svg)
-
 - [Checklists](https://drive.google.com/drive/folders/1WdeHjs6xd0fKxSzogNod4NpKxolOoZhG?usp=sharing)
 - [Test-Cases](https://drive.google.com/drive/folders/1bJYO7ywhez72GommZ4CVptMehfVdf1CX?usp=sharing)
 - [Bug-Reports](https://drive.google.com/drive/folders/1Iyqsm7vtqU3uMpq1Ep4Zc89wHoG2aqrE?usp=sharing)
